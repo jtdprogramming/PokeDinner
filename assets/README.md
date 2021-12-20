@@ -1,5 +1,5 @@
 # Poké-Dinner
-![Poke-Dinner Logo](https://github.com/jtdprogramming/PokeDinner/blob/main/assets/images/pokedinner-logo.PNG?raw=true)
+![Poke-Dinner Logo](assets/images/pokedinner-logo.png)
 
 ## Purpose
 A web application that allows user to input the name of a Pokémon, and returns results of dinner recipe ideas to feed said Pokémon based on recommended caloric intake for Pokémon's weight range.
